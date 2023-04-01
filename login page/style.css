@@ -62,6 +62,7 @@ main aside:nth-child(1) form .area input {
   transition: 0.5s all;
   border-radius: 6px;
   border: 2px solid #675AF0;
+  padding: 0px 10px;
 }
 main aside:nth-child(1) form .area input:hover {
   transform: scale(1.03);
